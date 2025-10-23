@@ -1,0 +1,65 @@
+.caixaimagens {
+  display: flex;
+  gap: 4rem;
+  margin-right: 10%;
+  margin-left: 10%;
+  margin-top: 10%;
+}
+.caixaimagens .tamanhocaixa {
+  max-width: 100%;
+  height: auto;
+}
+.caixaimagens a {
+  color: black;
+}
+.caixaimagens a .imagem01 {
+  width: 20vw;
+  height: auto;
+  margin-top: 40%;
+}
+.caixaimagens a .imagem02 {
+  max-width: 100%;
+  height: auto;
+}
+.caixaimagens a .imagem03 {
+  width: 25vw;
+  height: auto;
+  margin-top: 25%;
+}
+.caixaimagens a .readmoreseta {
+  display: flex;
+  font-weight: 550;
+}
+
+.seemorestories {
+  text-align: center;
+  height: 50px;
+  padding-bottom: 0;
+  margin-top: 3%;
+}
+.seemorestories button {
+  text-align: center;
+  background-color: #18a1c3;
+  border-color: #18a1c3;
+  line-height: 1.7;
+  border: 1px solid #18a1c3;
+  cursor: pointer;
+  height: 50px;
+}
+.seemorestories button a {
+  color: white;
+  padding: 0.5rem 1rem;
+  font-family: "Futura", sans-serif;
+  font-weight: 600;
+  font-size: 1.25rem;
+  line-height: 1.45;
+}
+
+.caixatitulo {
+  text-align: center;
+  margin-top: 7rem;
+  font-size: 3rem;
+  font-family: "TiemposHeadline", serif;
+  font-weight: 700;
+  letter-spacing: -1px;
+}/*# sourceMappingURL=estilo.css.map */
